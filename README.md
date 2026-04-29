@@ -21,7 +21,7 @@ A single-file browser chess game with a JavaScript chess engine. Play against an
 It's a single HTML file. Either:
 
 1. **Just open `index.html` in your browser** — no build step, no server needed.
-2. Or visit the GitHub Pages site (if enabled): `https://YOUR_USERNAME.github.io/REPO_NAME/`
+2. Or visit the GitHub Pages site (if enabled): `https://christos-michael.github.io/Chess-Bot/`
 
 ## Keyboard shortcuts
 
